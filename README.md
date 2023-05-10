@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ### Hi there 👋, my name is Oleg
-#### I am GitHub Readme Generator's creator
+#### I am Engineer
 ![I am GitHub Readme Generator's creator](https://w.forfun.com/fetch/ac/ac7bb089f21eda6318716dd535762b9a.jpeg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
