@@ -4,7 +4,7 @@
 #### I am Engineer
 ![I am GitHub Readme Generator's creator](https://w.forfun.com/fetch/ac/ac7bb089f21eda6318716dd535762b9a.jpeg)
 
-I 
+I want to to acquire new skills in programming
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
