@@ -8,8 +8,8 @@ I want to to acquire new skills in programming
 
 -Skills: VUE JS / REACT / JS / HTML / CSS
 
-- [x]~~ 🔭 I’m currently working on this page.~~\
-
+~~ 🔭 I’m currently working on this page.~~\
+- [x]
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrOlegingit )  
 
