@@ -6,6 +6,8 @@
 
 I want to to acquire new skills in programming
 
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
 -Skills: VUE JS / REACT / JS / HTML / CSS
 
 > ~~🔭 I’m currently working on this page.~~\
