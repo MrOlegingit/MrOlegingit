@@ -6,7 +6,7 @@
 
 I want to to acquire new skills in programming
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+-Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
