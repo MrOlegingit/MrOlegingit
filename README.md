@@ -10,8 +10,8 @@ I want to to acquire new skills in programming
 
 > ~~🔭 I’m currently working on this page.~~\
 
-> [!div class="nextstepaction"]
-> [button text](link to topic)
+ > [!div class="nextstepaction"]
+ > [button text](link to topic)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrOlegingit )  
 
