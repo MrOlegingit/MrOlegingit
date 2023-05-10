@@ -23,14 +23,11 @@ I want to to acquire new skills in programming
 
 ![Profile views](https://gpvc.arturio.dev/MrOlegingit )  
 
-h1 {
-  background-image:
-    linear-gradient(250deg,
-      #833AB4 0%,
-      #FD1D1D 50%,
-      #FCB045 100%
-    );
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: transparent;
-}
+- [x] Выйти на улицу
+- [x] Зайти в магазин
+- [ ] Купить продукты
+  - [x] Молоко
+  - [x] Хлеб
+  - [ ] Помидоры
+- [ ] Вернуться домой
+
