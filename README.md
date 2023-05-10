@@ -17,10 +17,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MrOlegingit )](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrOlegingit &show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MrOlegingit )  
-
 ![GitHub metrics](https://metrics.lecoq.io/MrOlegingit )  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MrOlegingit )  
