@@ -10,7 +10,7 @@ I want to to acquire new skills in programming
 
 > ~~🔭 I’m currently working on this page.~~\
 ```{bash, eval=FALSE}
-[mport numpy as np
+[import numpy as np
 random_color=list(np.random.choice(range(255),size=3))
 print("A Random color is:",random_color)]
 ```
