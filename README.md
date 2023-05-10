@@ -8,7 +8,7 @@ I want to to acquire new skills in programming
 
 -Skills: VUE JS / REACT / JS / HTML / CSS
 
- ##🔭 I’m currently working on this page. 
+ 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrOlegingit )  
@@ -22,3 +22,15 @@ I want to to acquire new skills in programming
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MrOlegingit )  
 
 ![Profile views](https://gpvc.arturio.dev/MrOlegingit )  
+
+h1 {
+  background-image:
+    linear-gradient(250deg,
+      #833AB4 0%,
+      #FD1D1D 50%,
+      #FCB045 100%
+    );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
