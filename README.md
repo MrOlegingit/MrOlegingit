@@ -7,8 +7,22 @@
 I want to to acquire new skills in programming
 
 -Skills: VUE JS / REACT / JS / HTML / CSS
+
 > [!NOTE]
-> f
+> Information the user should notice even if skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
+> Essential information required for user success.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+> [!WARNING]
+> Dangerous certain consequences of an action.
+
 > ~~🔭 I’m currently working on this page.~~\
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrOlegingit )  
