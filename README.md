@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Oleg
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fsun9-18.userapi.com%2Fimpf%2F2ST09OTd5ITG76BYB3DG4fAr_me2r-hAE76xkQ%2F3BvXIfoARDY.jpg%3Fsize%3D1280x720%26quality%3D96%26sign%3De8a3f3792a41dda9b026b908d83a270d%26c_uniq_tag%3DcvfdBOZ8j0YDttx4LtzWikDkail0_jyLsFTrr5tD6Jg%26type%3Dalbum&lr=213&p=2&pos=35&rpt=simage&text=do%20cool%20picture)
+![I am GitHub Readme Generator's creator](https://w.forfun.com/fetch/ac/ac7bb089f21eda6318716dd535762b9a.jpeg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
