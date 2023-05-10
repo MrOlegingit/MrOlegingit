@@ -14,8 +14,8 @@ I want to to acquire new skills in programming
 > [!TIP]
 > Optional information to help a user be more successful.
 
-> [!IMPORTANT]
-> Essential information required for user success.
+ > [!IMPORTANT]
+ > Essential information required for user success.
 
 > [!CAUTION]
 > Negative potential consequences of an action.
