@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Oleg
 #### I am Engineer
 ![I am GitHub Readme Generator's creator](https://w.forfun.com/fetch/ac/ac7bb089f21eda6318716dd535762b9a.jpeg)
