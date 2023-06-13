@@ -18,4 +18,5 @@ I want to to acquire new skills in programming
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MrOlegingit )  
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=
+MrOlegingit&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/MrOlegingit/MrOlegingit)
