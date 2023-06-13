@@ -18,6 +18,6 @@ I want to to acquire new skills in programming
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MrOlegingit )  
 
-![Profile views](https://gpvc.arturio.dev/MrOlegingit )  
+ 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+
