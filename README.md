@@ -20,4 +20,4 @@ I want to to acquire new skills in programming
 
  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrOlegingit)](https://github.com/MrOlegingit/MrOlegingit/github-readme-stats)
 
-
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
