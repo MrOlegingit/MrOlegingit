@@ -18,4 +18,4 @@ I want to to acquire new skills in programming
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MrOlegingit )  
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api username=MrOlegingit&theme=radival)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api username=MrOlegingit&theme=radival)
